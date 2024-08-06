@@ -7,3 +7,5 @@ https://shakeel-ahmed-bee1b.web.app/
 forked from
 https://github.com/Bharath2511/portfolio-react
 
+refered readme
+https://github.com/Bharath2511/portfolio-react/blob/main/README.md
